@@ -23,7 +23,7 @@ There are many more in-depth user-made tutorials on the original forum. You can 
 
 ## Screenshots
 <p align="center">
-<img src="https://i.ibb.co/w7TrNGV/screen1.png" width="445"/> <img src="https://i.ibb.co/YdTrCgy/screen2.png" width="445"/>
+<img src="https://i.ibb.co/w7TrNGV/screen1.png" width="435"/> <img src="https://i.ibb.co/YdTrCgy/screen2.png" width="435"/>
 </p>
 
 ## Credits
